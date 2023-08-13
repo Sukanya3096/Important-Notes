@@ -204,6 +204,31 @@ The ```<script>``` tag is known for embedding the scripts like JavaScript. The `
   //code to be executed  
 </script>
 ```
+#### Attributes of ```<script>``` Tag
+The ```<script>``` tag has two types of attributes.
+
+- global attributes: A global attribute is a property common to all HTML elements. It can be used on all elements, even if it has no effect on some elements.
+
+- event attributes: When the browser reacts to a specific action by the user, event attributes are triggered. For example Form events, Mouse events, Media events, Window events.
+
+The <script> contains the following global attributes :
+
+- ***async***	```<script async>```: 	The <script> is run asynchronously with the rest of the page when you use script async.
+- ***crossorign***	```<script crossorigin ="anonymous|use-credentials">```:	enables error logging for sites that use a separate domain for static media. The value anonymous doesn't really send credentials, whereas the value use-credentials does.
+- ***defer***	```<script defer>```:	The script is run after the document has been parsed but before the DOMContentLoaded event has been fired.
+- ***src***	```<script src="uri\path to resource">```:	Provides a URL or path for an external script.
+- ***type***	```<script type="text\javascript">```:	In this attribute, we specify the type of containing script, which can be textjavascript, texthtml, textplain, applicationjson, applicationpdf, etc.
+- ***referrerpolicy***	```<script referrerpolicy="no-referrer">```:	If a script is being retrieved, this attribute tells which referrer to send. It can contain values such as no-referrer, no-referrer-when-downgrade, origin, same-origin, strict-origin, etc.
+- ***integrity***	```<script integrity="sha384-oqVuAfXRKap7fdgc">```	This attribute provides a way in which a user agent can verify that a retrieved resource was not manipulated.
+- ***nomodule***	```<script nomodule>```:	It specifies that the script is incompatible with browsers which support ES2015 modules.
+
+The ```<script>``` contains the following event attributes :
+
+***Window Events Attributes***- onload, onresize, etc.
+***Form Events***- oninput, onchange, etc.
+***Keyboard Events***- onkeydown, onkeypress, etc.
+***Mouse Events***- onclick, onwheel, etc.
+***Media Events***- onabort, onerror, etc.
 
 
 
