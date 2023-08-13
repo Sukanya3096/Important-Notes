@@ -4,7 +4,7 @@
 
 |Sl.No|  Questions                        |
 |----|------------------------------------|
-| 01.|[What does markup language mean?](#q-what-does-markup-language-mean?)|
+| 01.|[What does markup language mean?](#q-what-does-markup-language-mean)|
 | 02.|[What are meta tags?](#q-what-are-meta-tags?)|
 | 03.|[What are the different ways to add CSS?](#q-what-are-the-different-ways-to-add-CSS?)|
 | 04.|[What happens when DOCTYPE is not given?](#q-what-happens-when-doctype-is-not-given)|
