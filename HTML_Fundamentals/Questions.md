@@ -1,12 +1,14 @@
 # HTML5 Interview Questions and Answers
 
-</br>
+<br/>
 
 |Sl.No|  Questions                        |
 |----|------------------------------------|
 | 01.|[What does markup language mean?](#q-what-does-markup-language-mean?)|
 | 02.|[What are meta tags?](#q-what-are-meta-tags?)|
 | 03.|[What are the different ways to add CSS?](#q-what-are-the-different-ways-to-add-CSS?)|
+
+<br/>
 
 
 ## Q. ***What does markup language mean?***
