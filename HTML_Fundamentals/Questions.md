@@ -8,6 +8,7 @@
 | 02.|[What are meta tags?](#q-what-are-meta-tags)|
 | 03.|[What are the different ways to add CSS?](#q-what-are-the-different-ways-to-add-css)|
 | 04.|[What happens when DOCTYPE is not given?](#q-what-happens-when-doctype-is-not-given)|
+| 05.|[What is div?](#q-what-is-div)|
 
 <br/>
 
@@ -128,6 +129,9 @@ The web page is rendered in quirks mode. The web browsers engines use quirks mod
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***What is div?***
+The HTML division tag, called "div" for short, is a special element that lets us group similar sets of content together on a web page. We can use it as a generic container for associating similar content.
 
 
 
