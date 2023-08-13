@@ -7,6 +7,7 @@
 | 01.|[What does markup language mean?](#q-what-does-markup-language-mean?)|
 | 02.|[What are meta tags?](#q-what-are-meta-tags?)|
 | 03.|[What are the different ways to add CSS?](#q-what-are-the-different-ways-to-add-CSS?)|
+| 04.|[What happens when DOCTYPE is not given?](#q-what-happens-when-doctype-is-not-given)|
 
 <br/>
 
@@ -120,6 +121,13 @@ Then we can import index.css to HTML with a <link> tag like below:
  <h1> Test Headline </h1>
 </body>
 ```
+
+## Q. ***What happens when DOCTYPE is not given?***
+
+The web page is rendered in quirks mode. The web browsers engines use quirks mode to support older browsers which does not follow the **W3C specifications**. In quirks mode CSS class and id names are case insensitive. In standards mode they are case sensitive.
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 
