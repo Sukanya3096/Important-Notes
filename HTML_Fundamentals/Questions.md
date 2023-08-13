@@ -224,11 +224,11 @@ The <script> contains the following global attributes :
 
 The ```<script>``` contains the following event attributes :
 
-***Window Events Attributes***- onload, onresize, etc.
-***Form Events***- oninput, onchange, etc.
-***Keyboard Events***- onkeydown, onkeypress, etc.
-***Mouse Events***- onclick, onwheel, etc.
-***Media Events***- onabort, onerror, etc.
+- ***Window Events Attributes***- onload, onresize, etc.
+- ***Form Events***- oninput, onchange, etc.
+- ***Keyboard Events***- onkeydown, onkeypress, etc.
+- ***Mouse Events***- onclick, onwheel, etc.
+- ***Media Events***- onabort, onerror, etc.
 
 
 
